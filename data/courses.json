@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Web development",
+    "details": [
+      {
+        "id": 1,
+        "title": "Start with HTML",
+        "info": "For starting web development HTML is basic to create your first HELLO world website",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UI-IX design",
+    "details": [
+      {
+        "id": 1,
+        "title": "Start with FIGMA",
+        "info": "For starting UI-UX design FIGMA is basic to create your first basic website design",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Video edditing"
+  },
+  {
+    "id": 4,
+    "title": "Animate 3D"
+  },
+  {
+    "id": 5,
+    "title": "Auto cad"
+  },
+  {
+    "id": 6,
+    "title": "App development"
+  },
+  {
+    "id": 7,
+    "title": "Cyber security"
+  }
+]
