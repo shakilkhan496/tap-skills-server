@@ -2,45 +2,127 @@
   {
     "id": 1,
     "title": "Web development",
-    "details": [
+    "image": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "Develop amazing web and app experiences with tips and advice from the experts at Tap Skills.",
+    "details": "The basic fundamentals of web development is HTML CSS JS . So here we will train you as a basic lerner. After passing the basic stage you will learn react js and firebase also. After some practice task you will be learn back end with mongo db and node JS .",
+    "features": [
       {
-        "id": 1,
-        "title": "Start with HTML",
-        "info": "For starting web development HTML is basic to create your first HELLO world website",
-        "price": 20
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
       }
     ]
   },
   {
     "id": 2,
     "title": "UI-IX design",
-    "details": [
+    "image": "https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "UX design is all about identifying and solving user problems; UI design is all about creating intuitive, aesthetically-pleasing, interactive ..",
+    "details": "A UI (User Interface) deals with the application's graphical layout, which includes buttons, screen layout, animations, transitions, micro-interactions, and so on. In short, UI is all about how things look.UX (User Experience) design deals with how users interact with the system. Logical navigation and how smooth and intuitive the experience is all fall under UX design. In short, this type of design helps users have a positive experience.",
+    "features": [
       {
-        "id": 1,
-        "title": "Start with FIGMA",
-        "info": "For starting UI-UX design FIGMA is basic to create your first basic website design",
-        "price": 20
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
       }
     ]
   },
   {
     "id": 3,
-    "title": "Video edditing"
+    "title": "Video edditing",
+    "image": "https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "Learn stunning videos with a single click. Cut, trim, crop, add subtitles and more. Online, no account needed. Try it now, Tap Skills.",
+    "details": "Videos can take a huge range of formats for use online; from short engaging videos for TikTok and bite-size educational clips for YouTube to full-length documentary-style videos. They’re watched on a variety of video and social media platforms, with countless hosting options and tools, such as free editing packages and AI-based transcription services.",
+    "features": [
+      {
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
+      }
+    ]
   },
   {
     "id": 4,
-    "title": "Animate 3D"
+    "title": "Animate 3D",
+    "image": "https://images.unsplash.com/photo-1617289755070-3590b660a06e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=572&q=80",
+    "info": "Animate 3D lets you turn videos into 3D animations for use in games, augmented/virtual reality, and other applications. Learn here",
+    "details": "Animate 3D lets you create animations from video clips in seconds, drastically reducing development time and costs. And with pioneering features such as Physics Simulation, Foot Locking, Slow Motion handling and now full body motion combined with Face Tracking and Hand Tracking you have more control and flexibility to create high-fidelity 3D animations.",
+    "features": [
+      {
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
+      }
+    ]
   },
   {
     "id": 5,
-    "title": "Auto cad"
+    "title": "Auto cad",
+    "image": "https://images.unsplash.com/photo-1641792324071-d39bc9b73c40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "AutoCAD: 2D and 3D CAD software trusted by millions to draft, engineer, and automate designs anywhere, anytime",
+    "details": "AutoCAD provides best-in-class drafting and design, whether you are working in 2D or 3D. With features to automatically generate plan, elevation, and isometric views, tool palettes to save your favorite blocks, and machine learning features to help you learn new ways to create designs, AutoCAD provides an unmatched user experience trusted by millions of users all over the world. ",
+    "features": [
+      {
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
+      }
+    ]
   },
   {
     "id": 6,
-    "title": "App development"
+    "title": "App development",
+    "image": "https://plus.unsplash.com/premium_photo-1663931932521-0207c53c564b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital ...",
+    "details": "Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Hence, the mobile development process involves creating installable software bundles (code, binaries, assets, etc.) , implementing backend services such as data access with an API, and testing the application on target devices.",
+    "features": [
+      {
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
+      }
+    ]
   },
   {
     "id": 7,
-    "title": "Cyber security"
+    "title": "Cyber security",
+    "image": "https://images.unsplash.com/photo-1641194255129-bd39dd8112de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "info": "Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks. ",
+    "details": "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
+    "features": [
+      {
+        "feature": "Learn with premium teacher"
+      },
+      {
+        "feature": "Get 24/7 support from us"
+      },
+      {
+        "feature": "Facebook group support"
+      }
+    ]
   }
 ]
